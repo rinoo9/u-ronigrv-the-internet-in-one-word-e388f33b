@@ -10,7 +10,7 @@ constant, there is no input, no randomness, and no network access.
 import os
 import sys
 
-WORD = "Doomscroll"
+WORD = "Cookies"
 OUTPUT_PATH = "/output/entry.txt"
 
 
